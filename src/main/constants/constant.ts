@@ -12,6 +12,8 @@ export const WOLF_LAUNCHER_URL = 'https://www.techdoctoruk.com/?sdm_process_down
 
 export const REVANCED_URL = 'https://github.com/revanced/revanced-manager/releases/download/v1.3.8/revanced-manager-v1.3.8.apk';
 
+export const NEWPIPE_URL = 'https://github.com/TeamNewPipe/NewPipe/releases/download/v0.25.1/NewPipe_v0.25.1.apk';
+
 export let apkPath: string;
 export const username = process.env.USERNAME;
 

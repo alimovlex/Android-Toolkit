@@ -58,7 +58,9 @@ Wolf Launcher - [https://www.techdoctoruk.com/tutorials/block-android-tv-adverts
 ## Mobile Apps (phone/tables)
 Spotube - [https://github.com/KRTirtho/spotube/blob/master/README.md](https://github.com/KRTirtho/spotube/blob/master/README.md) 
 
-Revanced - [https://revanced.app/](https://revanced.app/) 
+Newpipe - [https://newpipe.net/](https://newpipe.net/) 
+
+<!-- Revanced - [https://revanced.app/](https://revanced.app/)  -->
 
 <br> 
 
